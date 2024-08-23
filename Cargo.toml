@@ -1,0 +1,8 @@
+[package]
+name = "tui-realm-hello-world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tui-realm-stdlib = "1.3.2"
+tuirealm = "1.9.2"
